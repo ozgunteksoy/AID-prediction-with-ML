@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+/CBC_Values_with_20-40_Age/*.png
+/CBC_Values_with_20-40_Age/*.xlsx
+/CBC_Values_with_40-60_Age/*.png
+/CBC_Values_with_40-60_Age/*.xlsx
+/CBC_Values_with_60-80_Age/*.png
+/CBC_Values_with_60-80_Age/*.xlsx
